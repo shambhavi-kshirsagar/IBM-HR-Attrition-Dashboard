@@ -1,5 +1,15 @@
 # IBM HR Analytics — Employee Attrition Dashboard
 
+## About This Project
+I built this dashboard to go beyond surface-level HR reporting and 
+find the real drivers of employee attrition. The finding that 
+surprised me most was that overtime — not salary, not age — is the 
+strongest predictor of attrition. Employees working overtime leave 
+at 30.5%, nearly double the company average of 16.1%. This suggests 
+that burnout and work-life balance are bigger retention risks than 
+compensation alone — a insight that has direct implications for how 
+HR teams should prioritize their interventions.
+
 ## Overview
 Interactive HR dashboard analyzing attrition patterns across 1,470 employees 
 using IBM Watson HR Analytics dataset.

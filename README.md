@@ -12,6 +12,41 @@ using IBM Watson HR Analytics dataset.
 - Employees who left earned 30% less ($4,787 vs $6,833)
 - Overtime workers leave at 30.5% — highest single risk factor
 
+## Attrition Rate by Category
+
+| Department | Attrition Rate |
+|---|---|
+| Human Resources | 19.0% |
+| Research & Development | 13.8% |
+| Sales | 20.6% |
+
+| Age Group | Attrition Rate |
+|---|---|
+| <25 | 36% |
+| 25-34 | 20% |
+| 35-44 | 10% |
+| 45+ | 11% |
+
+| Tenure Group | Attrition Rate |
+|---|---|
+| 0-1 yrs | 36% |
+| 1-2 yrs | 35% |
+| 2-5 yrs | 18% |
+| 5-10 yrs | 11% |
+| 10+ yrs | 10% |
+
+| Job Role | Attrition Rate |
+|---|---|
+| Sales Representative | 40% |
+| Laboratory Technician | 24% |
+| Human Resources | 23% |
+| Research Scientist | 16% |
+| Sales Executive | 17% |
+| Healthcare Representative | 7% |
+| Manufacturing Director | 7% |
+| Manager | 5% |
+| Research Director | 3% |
+
 ## Recommendations
 1. 90-day onboarding program for new joiners
 2. Salary review for Sales & HR departments

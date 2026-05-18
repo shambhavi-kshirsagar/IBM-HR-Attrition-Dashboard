@@ -108,15 +108,6 @@ IBM-HR-Attrition-Dashboard/
 └── README.md
 ```
 
-## Dataset
-
-IBM HR Analytics Employee Attrition & Performance
-
-- Source: Kaggle
-- Rows: 1,470
-- Columns: 35
-- Missing Values: 0
-
 ## Project By
 **Shambhavi Kshirsagar**
 Data Analytics Portfolio Project | May 2026

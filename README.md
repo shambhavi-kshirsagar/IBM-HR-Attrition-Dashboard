@@ -84,16 +84,16 @@ Source: Kaggle — 1,470 rows, 35 columns, 0 null values
 ## Dashboard Preview
 
 ### Page 1 — Attrition Summary
-![Page1](PowerBI/d1.png)
+![Page1](PowerBI/Page1.png)
 
 ### Page 2 — Workforce Analysis
-![Page2](PowerBI/d2.png)
+![Page2](PowerBI/Page2.png)
 
 ### Page 3 — ML Insights
-![Page3](PowerBI/d3.png)
+![Page3](PowerBI/Page3.png)
 
 ### Page 4 — Recommendations
-![Page4](PowerBI/d4.png)
+![Page4](PowerBI/Page4.png)
 
 ## Project By
 **Shambhavi Kshirsagar**

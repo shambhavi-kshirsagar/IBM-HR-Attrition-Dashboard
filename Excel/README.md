@@ -76,4 +76,4 @@ IBM HR Analytics Employee Attrition & Performance
 Source: Kaggle — 1,470 rows, 35 columns, 0 null values
 
 ## Dashboard Preview
-![Dashboard](HR.png)
+![Excel](Excel_Dashboard.png)

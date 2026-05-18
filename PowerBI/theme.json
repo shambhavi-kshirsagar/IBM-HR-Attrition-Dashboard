@@ -1,0 +1,188 @@
+{
+  "name": "HR Analytics Dark Blue Theme",
+  "dataColors": [
+    "#4FD1FF",
+    "#2E6FFF",
+    "#36CFC9",
+    "#5B8FF9",
+    "#13C2C2",
+    "#69C0FF",
+    "#85A5FF",
+    "#3DD5F3"
+  ],
+  "background": "#0B1F3A",
+  "foreground": "#F5F7FA",
+  "tableAccent": "#4FD1FF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#F5F7FA" } },
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#122B49" } },
+            "transparency": 10
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#2E6FFF" } },
+            "radius": 10
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#F5F7FA" } },
+            "fontSize": 11
+          }
+        ]
+      }
+    },
+
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#0B1F3A" } },
+            "transparency": 0
+          }
+        ],
+        "wallpaper": [
+          {
+            "color": { "solid": { "color": "#0B1F3A" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#B9C6D3" } },
+            "fontSize": 12
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#4FD1FF" } },
+            "fontSize": 28
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#122B49" } },
+            "transparency": 5
+          }
+        ]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#122B49" } },
+            "transparency": 5
+          }
+        ],
+        "items": [
+          {
+            "fontColor": { "solid": { "color": "#F5F7FA" } },
+            "textSize": 11
+          }
+        ],
+        "header": [
+          {
+            "fontColor": { "solid": { "color": "#4FD1FF" } },
+            "fontSize": 13
+          }
+        ]
+      }
+    },
+
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridHorizontal": true,
+            "gridVerticalColor": { "solid": { "color": "#1E3A5F" } },
+            "gridHorizontalColor": { "solid": { "color": "#1E3A5F" } }
+          }
+        ],
+        "values": [
+          {
+            "color": { "solid": { "color": "#F5F7FA" } },
+            "fontSize": 11
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontColor": { "solid": { "color": "#4FD1FF" } },
+            "backColor": { "solid": { "color": "#122B49" } },
+            "fontSize": 12
+          }
+        ]
+      }
+    },
+
+    "lineChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "labelColor": { "solid": { "color": "#F5F7FA" } },
+            "titleColor": { "solid": { "color": "#F5F7FA" } }
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": { "solid": { "color": "#F5F7FA" } },
+            "titleColor": { "solid": { "color": "#F5F7FA" } }
+          }
+        ]
+      }
+    },
+
+    "barChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "labelColor": { "solid": { "color": "#F5F7FA" } }
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": { "solid": { "color": "#F5F7FA" } }
+          }
+        ]
+      }
+    },
+
+    "pieChart": {
+      "*": {
+        "legend": [
+          {
+            "labelColor": { "solid": { "color": "#F5F7FA" } }
+          }
+        ],
+        "detailLabels": [
+          {
+            "color": { "solid": { "color": "#F5F7FA" } }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -95,6 +95,28 @@ Source: Kaggle — 1,470 rows, 35 columns, 0 null values
 ### Page 4 — Recommendations
 ![Page4](PowerBI/Page4.png)
 
+## Repository Structure
+
+```text
+IBM-HR-Attrition-Dashboard/
+│
+├── Excel/
+├── SQL/
+├── Python/
+├── PowerBI/
+├── Dataset/
+└── README.md
+```
+
+## Dataset
+
+IBM HR Analytics Employee Attrition & Performance
+
+- Source: Kaggle
+- Rows: 1,470
+- Columns: 35
+- Missing Values: 0
+
 ## Project By
 **Shambhavi Kshirsagar**
 Data Analytics Portfolio Project | May 2026

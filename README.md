@@ -95,6 +95,11 @@ Source: Kaggle — 1,470 rows, 35 columns, 0 null values
 ### Page 4 — Recommendations
 ![Page4](PowerBI/Page4.png)
 
+## Dashboard Presentation
+
+### Video — Presentation
+![Video](PowerBI/HR_Dashboard.mp4)
+
 ## Repository Structure
 
 ```text
